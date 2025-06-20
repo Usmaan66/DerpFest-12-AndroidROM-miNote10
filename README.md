@@ -5,6 +5,8 @@
 ![Redmi Note 10 Pro](https://img.shields.io/badge/Device-Redmi%20Note%2010%20Pro-blue)
 ![Build Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
+> 📥 **Download the latest build [here](https://drive.google.com/file/d/1xqfXXD69MUsCqGRQ6vqjQk2itQptn068/view?usp=sharing)**
+
 ## 📱 About
 This is an unofficial build of **DerpFest 12**, a feature-rich custom ROM based on **Android 12**, built for the **Redmi Note 10 Pro / Pro Max (sweet/sweetin)**. The goal of this ROM is to provide a clean, fast, and stable Android experience while maintaining a balance between performance, customization, and battery life.
 
